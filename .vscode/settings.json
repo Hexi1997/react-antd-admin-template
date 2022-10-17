@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "anticon",
+    "antv",
+    "approvaltime",
+    "bizcharts",
+    "contractaddress",
+    "fittext",
+    "homescreen",
+    "iconfont",
+    "lastreporttime",
+    "metaverse",
+    "mockjs",
+    "mostreporttype",
+    "openapi",
+    "reportcount",
+    "Sider",
+    "Siderbar",
+    "stylelint",
+    "stylelintignore",
+    "umijs",
+    "whitematrix"
+  ],
+  "blueprint.templatesPath": [
+    ".vscode/blueprint-templates",
+  ]
+}

@@ -1,0 +1,8 @@
+[context.main]
+  command = "yarn build"
+  [[redirects]]
+    from = "/*"
+    to = "/index.html"
+    status = 200
+  [[context.main.plugins]]
+    package = "@netlify/plugin-sitemap"

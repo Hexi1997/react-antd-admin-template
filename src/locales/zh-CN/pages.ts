@@ -1,0 +1,20 @@
+export default {
+  'pages.layouts.userLayout.title': '便捷切换的云端多链智能合约IDE',
+  'pages.login.github_login': 'Github 登录',
+  'pages.notfound.subtitle': '抱歉，您访问的页面不存在',
+  'pages.notfound.back_home': '返回首页',
+  'pages.welcome.title': '欢迎使用 Matrix Market 管理端控制面板',
+  'pages.welcome.subtitle': 'ChainIDE - 便捷切换的云端多链智能合约IDE。',
+  'pages.welcome.statistics.title': '数据统计',
+  'pages.welcome.statistics.total_volume': '总交易量(FLOW）',
+  'pages.welcome.statistics.past_days': '主网已成功运行- ',
+  'pages.welcome.statistics.past_days_unit': ' 天',
+  'pages.welcome.statistics.tx_count': '总交易次数',
+  'pages.welcome.statistics.pv': '首页访问量',
+  'pages.welcome.statistics.24hour_tx_count': '过去24小时交易次数',
+  'pages.welcome.statistics.24hour_volume': '过去24小时交易量(FLOW)',
+  'pages.welcome.statistics.royalty': '总版税收入(FLOW)',
+  'pages.welcome.statistics.royalty_24hour': '过去24小时版税收入(FLOW)',
+  'pages.welcome.greeting_prefix': '主网状态正常，已运行',
+  'pages.welcome.greeting_suffix': '天'
+};

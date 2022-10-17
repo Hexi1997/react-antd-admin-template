@@ -1,0 +1,6 @@
+{
+  "name": "ChainIDE Admin",
+  "short_name": "ChainIDE Admin",
+  "display": "standalone",
+  "start_url": "./?utm_source=homescreen"
+}
