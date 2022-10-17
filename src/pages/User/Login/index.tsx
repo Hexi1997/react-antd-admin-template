@@ -61,7 +61,7 @@ const Login: React.FC = () => {
       <div className={styles.content}>
         <div className={styles.titleLine}>
           <img src="/logo.svg" />
-          <span>ChainIDE Admin</span>
+          <span>hainIDE Admin</span>
         </div>
         <p className={styles.descLine}>
           {intl.formatMessage({ id: 'pages.layouts.userLayout.title' })}
